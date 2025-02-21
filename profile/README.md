@@ -27,6 +27,12 @@ Workstream 3 contributors are working to develop a security-focused risk and con
 * The public message archive is available at [this link](https://lists.oasis-open-projects.org/g/cosai-risk-governance-ws/topics)
 * [Link to workstream 3 GitHub repository](https://github.com/cosai-oasis/ws3-ai-risk-governance)
 
+### Workstream 4: Secure Design Patterns for Agentic Systems Workstream
+The goal of this workstream is to research and develop secure design patterns for AI-based agentic systems including updates to AI usage threat models, conceptual high-level secure design pattern(s), impacts to secure infrastructure design, and other agent integration and use based needs.
+* Sign up for the WS4 mailing list by posting an empty email to [cosai-agentic-systems-ws+subscribe@lists.oasis-open-projects.org](mailto:cosai-agentic-systems-ws+subscribe@lists.oasis-open-projects.org)
+* The public message archive is available [at this link](https://lists.oasis-open-projects.org/g/cosai-agentic-systems-ws/topics)
+* [Link to workstream 4 GitHub repository](https://github.com/cosai-oasis/ws4-secure-design-agentic-systems)
+
 ## Support CoSAI as a sponsor
 Technical participation is free and open to all developers. That’s why CoSAI relies on a core group of stakeholder organizations whose financial commitment ensures that the initiative stays on track and receives the resources it needs to succeed. 
 Learn more about the benefits of becoming a member of the Coalition for Secure AI [here](https://www.coalitionforsecureai.org/join-us/).
