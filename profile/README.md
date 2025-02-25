@@ -21,7 +21,7 @@ The goal of this workstream is to develop a defender’s framework to identify n
 * The public message archive is available at [this link](https://lists.oasis-open-projects.org/g/cosai-defenders-ws/topics).
 * [Link to workstream 2 GitHub repository](https://github.com/cosai-oasis/ws2-defenders)
 
-### Workstream 3: AI Security Risk Management
+### Workstream 3: AI Security Risk Governance
 Workstream 3 contributors are working to develop a security-focused risk and controls taxonomy, checklist, and scorecard to guide practitioners in readiness assessments, management, monitoring, and reporting of their AI products, services, and components. 
 * Sign up for the WS3 mailing list by posting an empty email to [cosai-risk-governance-ws+subscribe@lists.oasis-open-projects.org](mailto:cosai-risk-governance-ws+subscribe@lists.oasis-open-projects.org)
 * The public message archive is available at [this link](https://lists.oasis-open-projects.org/g/cosai-risk-governance-ws/topics)
