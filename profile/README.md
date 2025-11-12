@@ -6,6 +6,12 @@ For more information about CoSAI, [visit our project website](https://www.coalit
 
 To learn more about how this Open Source project is governed, who our sponsors are, and who is serving on our Project Governing Board and Technical Steering Committee, check out the [OASIS Open Project repository](https://github.com/cosai-oasis/oasis-open-project). If you want to start contributing to CoSAI, please see our [onboarding information for new contributors](https://github.com/cosai-oasis/oasis-open-project/blob/main/ONBOARDING.md).
 
+## CoSAI AI Security Guidance Publications
+* [Establish Risks and Controls for the AI Supply Chain](https://github.com/cosai-oasis/ws1-supply-chain/blob/main/risks-and-controls-for-the-ai-supply-chain-v1.md)
+* [Signing ML Artifacts: Building towards tamper-proof ML metadata records](https://github.com/cosai-oasis/ws1-supply-chain/blob/main/signing-ml-artifacts.md)
+* [Preparing Defenders of AI Systems](https://github.com/cosai-oasis/ws2-defenders/blob/main/preparing-defenders-of-ai-systems.md)
+* [AI Incident Response Framework](https://github.com/cosai-oasis/ws2-defenders/blob/main/incident-response/AI%20Incident%20Response.md)
+
 ## CoSAI Workstreams
 CoSAI will address key AI security issues through several critical workstreams in collaboration with industry and academia, including efforts such as:
 
@@ -27,8 +33,4 @@ The goal of this workstream is to research and develop secure design patterns fo
 Technical participation is free and open to all developers. That’s why CoSAI relies on a core group of stakeholder organizations whose financial commitment ensures that the initiative stays on track and receives the resources it needs to succeed. 
 Learn more about the benefits of becoming a member of the Coalition for Secure AI [here](https://www.coalitionforsecureai.org/join-us/).
 
-## CoSAI AI Security Guidance Publications
-* [Establish Risks and Controls for the AI Supply Chain](https://github.com/cosai-oasis/ws1-supply-chain/blob/main/risks-and-controls-for-the-ai-supply-chain-v1.md)
-* [Signing ML Artifacts: Building towards tamper-proof ML metadata records](https://github.com/cosai-oasis/ws1-supply-chain/blob/main/signing-ml-artifacts.md)
-* [Preparing Defenders of AI Systems](https://github.com/cosai-oasis/ws2-defenders/blob/main/preparing-defenders-of-ai-systems.md)
-* [AI Incident Response Framework](https://github.com/cosai-oasis/ws2-defenders/blob/main/incident-response/AI%20Incident%20Response.md)
+
