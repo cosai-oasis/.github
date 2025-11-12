@@ -16,9 +16,7 @@ To learn more about how this Open Source project is governed, who our sponsors a
 CoSAI will address key AI security issues through several critical workstreams in collaboration with industry and academia, including efforts such as:
 
 ### Workstream 1: Software Supply Chain Security for AI systems
-This workstream focuses on enhancing AI security by addressing the challenges of third-party model risks, provenance, and AI application security. It builds upon widely recognized security frameworks like the SSDF and SLSA, extending them for AI development. 
-* The public message archive is available at [this link](https://lists.oasis-open-projects.org/g/cosai-supply-chain-ws/topics)
-* [Link to workstream 1 GitHub repository](https://github.com/cosai-oasis/ws1-supply-chain)
+This workstream focuses on enhancing AI security by addressing the challenges of third-party model risks, provenance, and AI application security. It builds upon widely recognized security frameworks like the SSDF and SLSA, extending them for AI development. [Link to workstream 1 GitHub repository](https://github.com/cosai-oasis/ws1-supply-chain)
 
 ### Workstream 2: Preparing Defenders for a Changing Cybersecurity Landscape
 The goal of this workstream is to develop a defender’s framework to identify needed investments to address the security impacts of AI use by business applications, attackers, and defenders as well as mitigations techniques and best practices. The Defender’s framework aims to scale investments and mitigation strategies with the emergence of pivotal offensive cybersecurity advancements in AI models. [Link to workstream 2 GitHub repository](https://github.com/cosai-oasis/ws2-defenders)
