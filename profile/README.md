@@ -4,7 +4,9 @@ CoSAI is an [OASIS Open Project](https://www.oasis-open.org/open-projects/) and 
 
 For more information about CoSAI, [visit our project website](https://www.coalitionforsecureai.org/). 
 
-To learn more about how this Open Source project is governed, who our sponsors are, and who is serving on our Project Governing Board and Technical Steering Committee, check out the [OASIS Open Project repository](https://github.com/cosai-oasis/oasis-open-project). If you want to start contributing to CoSAI, please see our [onboarding information for new contributors](https://github.com/cosai-oasis/oasis-open-project/blob/main/ONBOARDING.md).
+To learn more about how this Open Source project is governed, who our sponsors are, and who is serving on our Project Governing Board and Technical Steering Committee, check out the [OASIS Open Project repository](https://github.com/cosai-oasis/oasis-open-project). The co-chairs of the CoSAI Project Governing Board are David LaBianca (Google) and Omar Santos (Cisco). The co-chairs for the Technical Steering Committee are J.R. Rao (IBM) and Akila Srinivasan (Anthropic).
+
+If you want to start contributing to CoSAI, please see our [onboarding information for new contributors](https://github.com/cosai-oasis/oasis-open-project/blob/main/ONBOARDING.md).
 
 ## CoSAI AI Security Guidance Publications
 * [Establish Risks and Controls for the AI Supply Chain](https://github.com/cosai-oasis/ws1-supply-chain/blob/main/risks-and-controls-for-the-ai-supply-chain-v1.md)
