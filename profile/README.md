@@ -9,11 +9,12 @@ To learn more about how this Open Source project is governed, who our sponsors a
 If you want to start contributing to CoSAI, please see our [onboarding information for new contributors](https://github.com/cosai-oasis/oasis-open-project/blob/main/ONBOARDING.md).
 
 ## CoSAI AI Security Guidance Publications
-* [Establish Risks and Controls for the AI Supply Chain](https://github.com/cosai-oasis/ws1-supply-chain/blob/main/risks-and-controls-for-the-ai-supply-chain-v1.md)
-* [Signing ML Artifacts: Building towards tamper-proof ML metadata records](https://github.com/cosai-oasis/ws1-supply-chain/blob/main/signing-ml-artifacts.md)
-* [Preparing Defenders of AI Systems](https://github.com/cosai-oasis/ws2-defenders/blob/main/preparing-defenders-of-ai-systems.md)
-* [AI Incident Response Framework](https://github.com/cosai-oasis/ws2-defenders/blob/main/incident-response/AI-Incident-Response.md)
-* [Model Context Protocol (MCP) Security](https://github.com/cosai-oasis/ws4-secure-design-agentic-systems/blob/main/model-context-protocol-security.md)
+* [Establish Risks and Controls for the AI Supply Chain](https://github.com/cosai-oasis/ws1-supply-chain/blob/main/risks-and-controls-for-the-ai-supply-chain-v1.pdf)
+* [Signing ML Artifacts: Building towards tamper-proof ML metadata records](https://github.com/cosai-oasis/ws1-supply-chain/blob/main/signing-ml-artifacts.pdf))
+* [Preparing Defenders of AI Systems](https://github.com/cosai-oasis/ws2-defenders/blob/main/preparing-defenders-of-ai-systems.pdf)
+* [AI Incident Response Framework](https://github.com/cosai-oasis/ws2-defenders/blob/main/incident-response/AI-Incident-Response.pdf)
+* [Model Context Protocol (MCP) Security](https://github.com/cosai-oasis/ws4-secure-design-agentic-systems/blob/main/model-context-protocol-security.pdf)
+* [Agentic Identity and Access Management](https://github.com/cosai-oasis/ws4-secure-design-agentic-systems/blob/main/agentic-identity-and-access-control.pdf)
 
 ## CoSAI Workstreams
 CoSAI will address key AI security issues through several critical workstreams in collaboration with industry and academia, including efforts such as:
