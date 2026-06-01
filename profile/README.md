@@ -13,6 +13,7 @@ If you want to start contributing to CoSAI, please see our [onboarding informati
 * [Signing ML Artifacts: Building towards tamper-proof ML metadata records](https://github.com/cosai-oasis/ws1-supply-chain/blob/main/signing-ml-artifacts.pdf))
 * [Preparing Defenders of AI Systems](https://github.com/cosai-oasis/ws2-defenders/blob/main/preparing-defenders-of-ai-systems.pdf)
 * [AI Incident Response Framework](https://github.com/cosai-oasis/ws2-defenders/blob/main/incident-response/AI-Incident-Response.pdf)
+* [AI Shared Responsibility Framework](https://github.com/cosai-oasis/ws2-defenders/blob/main/shared-responsibility-framework/AI-Shared-Responsibility-Framework.pdf)
 * [Model Context Protocol (MCP) Security](https://github.com/cosai-oasis/ws4-secure-design-agentic-systems/blob/main/model-context-protocol-security.pdf)
 * [Agentic Identity and Access Management](https://github.com/cosai-oasis/ws4-secure-design-agentic-systems/blob/main/agentic-identity-and-access-control.pdf)
 
