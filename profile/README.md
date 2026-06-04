@@ -6,6 +6,7 @@ For more information about CoSAI, [visit our project website](https://www.coalit
 
 To learn more about how this Open Source project is governed, who our sponsors are, and who is serving on our Project Governing Board and Technical Steering Committee, check out the [OASIS Open Project repository](https://github.com/cosai-oasis/oasis-open-project). The co-chairs of the CoSAI Project Governing Board are David LaBianca (Google) and Omar Santos (Cisco). The co-chairs for the Technical Steering Committee are J.R. Rao (IBM) and Akila Srinivasan (Anthropic).
 
+## Want to contribute?
 If you want to start contributing to CoSAI, please see our [onboarding information for new contributors](https://github.com/cosai-oasis/oasis-open-project/blob/main/ONBOARDING.md). Here's a link to the [CoSAI workstream meeting calendar](https://lists.oasis-open-projects.org/g/cosai-op/calendar).
 
 ## CoSAI AI Security Guidance Publications
