@@ -1,10 +1,23 @@
 
 # Welcome to the Coalition for Secure AI (CoSAI)
-CoSAI is an [OASIS Open Project](https://www.oasis-open.org/open-projects/) and is an open ecosystem of AI and security experts from industry leading organizations dedicated to sharing best practices for secure AI deployment and collaborating on AI security research and product development. 
+CoSAI is an [OASIS Open Project](https://www.oasis-open.org/open-projects/) and is an open ecosystem of AI and security experts from industry leading organizations dedicated to sharing best practices for secure AI deployment and collaborating on AI security research and product development. For more information about CoSAI, [visit our project website](https://www.coalitionforsecureai.org/). 
 
-For more information about CoSAI, [visit our project website](https://www.coalitionforsecureai.org/). 
+To learn more about how CoSAI is governed, who our sponsors are, and who is serving on our Project Governing Board and Technical Steering Committee, check out the [OASIS Open Project repository](https://github.com/cosai-oasis/oasis-open-project). 
 
-To learn more about how this Open Source project is governed, who our sponsors are, and who is serving on our Project Governing Board and Technical Steering Committee, check out the [OASIS Open Project repository](https://github.com/cosai-oasis/oasis-open-project). The co-chairs of the CoSAI Project Governing Board are David LaBianca (Google) and Omar Santos (Cisco). The co-chairs for the Technical Steering Committee are J.R. Rao (IBM) and Akila Srinivasan (Anthropic).
+
+## CoSAI Workstreams
+
+### Workstream 1: Software Supply Chain Security for AI systems
+This workstream focuses on enhancing AI security by addressing the challenges of third-party model risks, provenance, and AI application security. It builds upon widely recognized security frameworks like the SSDF and SLSA, extending them for AI development. [WS1 GitHub repository](https://github.com/cosai-oasis/ws1-supply-chain) [WS1 mailing list](https://lists.oasis-open-projects.org/g/cosai-supply-chain-ws) [WS1 meeting calendar](https://lists.oasis-open-projects.org/g/cosai-supply-chain-ws/calendar)
+
+### Workstream 2: Preparing Defenders for a Changing Cybersecurity Landscape
+The goal of this workstream is to develop a defender’s framework to identify needed investments to address the security impacts of AI use by business applications, attackers, and defenders as well as mitigations techniques and best practices. The Defender’s framework aims to scale investments and mitigation strategies with the emergence of pivotal offensive cybersecurity advancements in AI models. [WS2 GitHub repository](https://github.com/cosai-oasis/ws2-defenders) [WS2 mailing list](https://lists.oasis-open-projects.org/g/cosai-defenders-ws) [WS2 meeting calendar](https://lists.oasis-open-projects.org/g/cosai-defenders-ws/calendar)
+
+### Workstream 3: AI Security Risk Governance
+Workstream 3 contributors are working to develop a security-focused risk and controls taxonomy, checklist, and scorecard to guide practitioners in readiness assessments, management, monitoring, and reporting of their AI products, services, and components. [WS3 GitHub repository](https://github.com/cosai-oasis/ws3-ai-risk-governance) [WS3 mailing list](https://lists.oasis-open-projects.org/g/cosai-risk-governance-ws) [WS3 meeting calendar](https://lists.oasis-open-projects.org/g/cosai-risk-governance-ws/calendar)
+
+### Workstream 4: Secure Design Patterns for Agentic Systems Workstream
+The goal of this workstream is to research and develop secure design patterns for AI-based agentic systems including updates to AI usage threat models, conceptual high-level secure design pattern(s), impacts to secure infrastructure design, and other agent integration and use based needs. [WS4 GitHub repository](https://github.com/cosai-oasis/ws4-secure-design-agentic-systems)[WS4 mailing list](https://lists.oasis-open-projects.org/g/cosai-agentic-systems-ws) [WS4 meeting calendar](https://lists.oasis-open-projects.org/g/cosai-agentic-systems-ws/calendar)
 
 ## Want to contribute?
 If you want to start contributing to CoSAI, please see our [onboarding information for new contributors](https://github.com/cosai-oasis/oasis-open-project/blob/main/ONBOARDING.md). Here's a link to the [CoSAI workstream meeting calendar](https://lists.oasis-open-projects.org/g/cosai-op/calendar).
@@ -18,23 +31,7 @@ If you want to start contributing to CoSAI, please see our [onboarding informati
 * [Model Context Protocol (MCP) Security](https://github.com/cosai-oasis/ws4-secure-design-agentic-systems/blob/main/model-context-protocol-security.pdf)
 * [Agentic Identity and Access Management](https://github.com/cosai-oasis/ws4-secure-design-agentic-systems/blob/main/agentic-identity-and-access-control.pdf)
 
-## CoSAI Workstreams
-CoSAI will address key AI security issues through several critical workstreams in collaboration with industry and academia, including efforts such as:
-
-### Workstream 1: Software Supply Chain Security for AI systems
-This workstream focuses on enhancing AI security by addressing the challenges of third-party model risks, provenance, and AI application security. It builds upon widely recognized security frameworks like the SSDF and SLSA, extending them for AI development. [Link to workstream 1 GitHub repository](https://github.com/cosai-oasis/ws1-supply-chain)
-
-### Workstream 2: Preparing Defenders for a Changing Cybersecurity Landscape
-The goal of this workstream is to develop a defender’s framework to identify needed investments to address the security impacts of AI use by business applications, attackers, and defenders as well as mitigations techniques and best practices. The Defender’s framework aims to scale investments and mitigation strategies with the emergence of pivotal offensive cybersecurity advancements in AI models. [Link to workstream 2 GitHub repository](https://github.com/cosai-oasis/ws2-defenders)
-
-### Workstream 3: AI Security Risk Governance
-Workstream 3 contributors are working to develop a security-focused risk and controls taxonomy, checklist, and scorecard to guide practitioners in readiness assessments, management, monitoring, and reporting of their AI products, services, and components. [Link to workstream 3 GitHub repository](https://github.com/cosai-oasis/ws3-ai-risk-governance)
-
-### Workstream 4: Secure Design Patterns for Agentic Systems Workstream
-The goal of this workstream is to research and develop secure design patterns for AI-based agentic systems including updates to AI usage threat models, conceptual high-level secure design pattern(s), impacts to secure infrastructure design, and other agent integration and use based needs. [Link to workstream 4 GitHub repository](https://github.com/cosai-oasis/ws4-secure-design-agentic-systems)
-
 ## Support CoSAI as a sponsor
 Technical participation is free and open to all developers. That’s why CoSAI relies on a core group of stakeholder organizations whose financial commitment ensures that the initiative stays on track and receives the resources it needs to succeed. 
 Learn more about the benefits of becoming a member of the Coalition for Secure AI [here](https://www.coalitionforsecureai.org/join-us/).
-
 
