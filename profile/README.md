@@ -24,7 +24,7 @@ If you want to start contributing to CoSAI, please see our [onboarding informati
 
 ## CoSAI AI Security Guidance Publications
 * [Establish Risks and Controls for the AI Supply Chain](https://github.com/cosai-oasis/ws1-supply-chain/blob/main/risks-and-controls-for-the-ai-supply-chain-v1.pdf)
-* [Signing ML Artifacts: Building towards tamper-proof ML metadata records](https://github.com/cosai-oasis/ws1-supply-chain/blob/main/signing-ml-artifacts.pdf))
+* [Signing ML Artifacts: Building towards tamper-proof ML metadata records](https://github.com/cosai-oasis/ws1-supply-chain/blob/main/signing-ml-artifacts.pdf)
 * [Preparing Defenders of AI Systems](https://github.com/cosai-oasis/ws2-defenders/blob/main/preparing-defenders-of-ai-systems.pdf)
 * [AI Incident Response Framework](https://github.com/cosai-oasis/ws2-defenders/blob/main/incident-response/AI-Incident-Response.pdf)
 * [AI Shared Responsibility Framework](https://github.com/cosai-oasis/ws2-defenders/blob/main/shared-responsibility-framework/AI-Shared-Responsibility-Framework.pdf)
