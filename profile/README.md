@@ -28,8 +28,8 @@ If you want to start contributing to CoSAI, please see our [onboarding informati
 * [Preparing Defenders of AI Systems](https://github.com/cosai-oasis/ws2-defenders/blob/main/preparing-defenders-of-ai-systems.pdf)
 * [AI Incident Response Framework](https://github.com/cosai-oasis/ws2-defenders/blob/main/incident-response/AI-Incident-Response.pdf)
 * [AI Shared Responsibility Framework](https://github.com/cosai-oasis/ws3-ai-risk-governance/blob/main/shared-responsibility-framework/AI-Shared-Responsibility-Framework.pdf)
-* [Model Context Protocol (MCP) Security](https://github.com/cosai-oasis/ws4-secure-design-agentic-systems/blob/main/model-context-protocol-security.pdf)
-* [Agentic Identity and Access Management](https://github.com/cosai-oasis/ws4-secure-design-agentic-systems/blob/main/agentic-identity-and-access-control.pdf)
+* [Model Context Protocol (MCP) Security](https://github.com/cosai-oasis/ws4-secure-design-agentic-systems/blob/main/whitepapers/model-context-protocol-security.pdf)
+* [Agentic Identity and Access Management](https://github.com/cosai-oasis/ws4-secure-design-agentic-systems/blob/main/whitepapers/agentic-identity-and-access-control.pdf)
 
 ## Support CoSAI as a sponsor
 Technical participation is free and open to all developers. That’s why CoSAI relies on a core group of stakeholder organizations whose financial commitment ensures that the initiative stays on track and receives the resources it needs to succeed. 
